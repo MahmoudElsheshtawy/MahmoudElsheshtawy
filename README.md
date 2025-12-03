@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- ✨ اسمك مع أنيميشن ✨ -->
+<!-- ✨ Animated Name Banner ✨ -->
 <h1>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Mahmoud+Elsheshtawy;Front+End+Developer;React+%7C+Next.js+%7C+JavaScript" alt="Typing Animation" />
 </h1>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
 
 </div>
 
@@ -41,6 +42,8 @@
 
 - Passionate **Front-End Developer** focused on modern web technologies.
 - I build clean, responsive, high-performance UI/UX experiences.
-- I love exploring new tools, improving code quality & building real projects.
+- Constantly improving my skills & exploring new tools.
 - Open for collaborations & freelance projects 🚀
+
+---
 
