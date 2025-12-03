@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ✨ اسمك مع أنيميشن ✨ -->
-<h1>0(
+<h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 </h1>
 
-<img src="https://github.com/MahmoudElsheshtawy/MahmoudElsheshtawy/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" />
+
 <br/>
 <img src="https://github.com/MahmoudElsheshtawy/MahmoudElsheshtawy/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" />
 
