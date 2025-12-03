@@ -2,10 +2,10 @@
 
 <!-- ✨ Animated Name Banner ✨ -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Mahmoud+Elsheshtawy;Front+End+Developer;React+%7C+Next.js+%7C+JavaScript" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Mahmoud+Elsheshtawy;Front+End+Developer(React.js)" alt="Typing Animation" />
 </h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+
 
 </div>
 
