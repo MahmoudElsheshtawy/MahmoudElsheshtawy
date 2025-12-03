@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- ✨ اسمك مع أنيميشن ✨ -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Mahmoud+Elsheshtawy;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+Developer" alt="Typing Animation" />
+<h1>0(
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Mahmoud+Elsheshtawy;Front-End+Developer(React.js)" alt="Typing Animation" />
 </h1>
 
 <img src="https://github.com/MahmoudElsheshtawy/MahmoudElsheshtawy/blob/main/images/hellocoders_rounded.gif?raw=true" width="55%" />
