@@ -6,11 +6,6 @@
 </h1>
 
 
-
-<br/><br/>
-
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=MahmoudElsheshtawy&style=flat&color=orange&label=PROFILE+VIEWS)
-
 </div>
 
 ---
