@@ -2,13 +2,13 @@
 
 <h1>Welcome to Mahmoud Elsheshtawy’s GitHub 👋</h1>
 
-<p>
+<h3>
 I’m glad you're here!  
 Feel free to explore my projects, check my code, and connect with me.  
 I’m always improving, learning, and building modern web experiences 🚀
-</p>
+<h3/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+
 
 </div>
 
