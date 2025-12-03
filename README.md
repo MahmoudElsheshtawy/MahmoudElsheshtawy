@@ -6,8 +6,6 @@
 </h1>
 
 
-<br/>
-<img src="https://github.com/MahmoudElsheshtawy/MahmoudElsheshtawy/blob/main/images/dev-working_rounded.gif?raw=true" width="35%" />
 
 <br/><br/>
 
