@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- ✨ Animated Name Banner ✨ -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Mahmoud+Elsheshtawy;Front+End+Developer(React.js)" alt="Typing Animation" />
-</h1>
+<h1>Welcome to Mahmoud Elsheshtawy’s GitHub 👋</h1>
 
+<p>
+I’m glad you're here!  
+Feel free to explore my projects, check my code, and connect with me.  
+I’m always improving, learning, and building modern web experiences 🚀
+</p>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
 
 </div>
 
@@ -15,7 +18,6 @@
 
 <div align="center">
 
-<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -40,10 +42,9 @@
 
 ## ⚡ About Me
 
-- Passionate **Front-End Developer** focused on modern web technologies.
-- I build clean, responsive, high-performance UI/UX experiences.
-- Constantly improving my skills & exploring new tools.
-- Open for collaborations & freelance projects 🚀
+- Front-End Developer focused on modern UI/UX.
+- I build clean, fast, and responsive web apps.
+- Passionate about learning, improving, and shipping real-world projects.
+- Open for collaborations & freelance work 🚀
 
 ---
-
